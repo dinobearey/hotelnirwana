@@ -90,7 +90,7 @@
                <div class="content">
                   <h3>Standar</h3>
                   <p>jenis kamar hotel yang paling dasar dan sering kali merupakan opsi yang paling terjangkau. Biasanya, kamar standar dilengkapi dengan fasilitas dasar seperti tempat tidur, meja, kursi, TV, dan kamar mandi. Ukurannya bervariasi, tetapi umumnya lebih kecil dibandingkan dengan tipe kamar lainnya. Meskipun lebih kecil, kamar ini tetap akan menjadi kamar yang nyaman untuk ditempati.</p>
-                  <a href="#reservation" class="btn">book now</a>
+                  <a href="#reservation" class="btn">Pesan Sekarang</a>
                </div>
             </div>
 
@@ -101,7 +101,7 @@
                <div class="content">
                   <h3>Deluxe</h3>
                   <p>Kamar deluxe menawarkan fasilitas dan kenyamanan tambahan dibandingkan kamar standar. Biasanya, kamar ini lebih luas, dengan perabotan yang lebih baik dan lebih banyak fasilitas seperti minibar, area duduk, dan peralatan mandi yang lebih mewah. Kamar deluxe sering kali terletak di lokasi yang lebih baik dalam hotel dan memberikan pemandangan yang lebih baik.</p>
-                  <a href="#reservation" class="btn">book now</a>
+                  <a href="#reservation" class="btn">Pesan Sekarang</a>
                </div>
             </div>
 
@@ -112,7 +112,7 @@
                <div class="content">
                   <h3>Family</h3>
                   <p>Kamar family dirancang khusus untuk keluarga atau kelompok besar. Kamar ini biasanya lebih luas dan dapat dilengkapi dengan beberapa tempat tidur atau area tidur tambahan. Fasilitas dalam kamar family sering kali mencakup ruang tamu terpisah, lebih banyak ruang penyimpanan, dan terkadang dapur kecil atau microwave untuk kenyamanan tambahan.</p>
-                  <a href="#reservation" class="btn">book now</a>
+                  <a href="#reservation" class="btn">Pesan Sekarang</a>
                </div>
             </div>
             
